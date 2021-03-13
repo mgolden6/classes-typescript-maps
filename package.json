@@ -1,0 +1,7 @@
+{
+  "version": "0.0.1",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  },
+  "dependencies": {}
+}
